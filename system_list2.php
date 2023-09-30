@@ -26,11 +26,11 @@
               </li>
               
               <li class="nav-item">
-              <a href="system_list1.php" class="nav-link">Browser Based Systems</a>
+              <a href="system_list1.php" class="nav-link">WEB Based Projects</a>
               </li>
               
               <li class="nav-item">
-              <a href="system_list2.php" class="nav-link active">VB.Net Based Systems</a>
+              <a href="system_list2.php" class="nav-link active">Java Based Project</a>
               </li>
               
             </ul>
